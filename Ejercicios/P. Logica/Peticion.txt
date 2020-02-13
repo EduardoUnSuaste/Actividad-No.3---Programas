@@ -1,0 +1,6 @@
+signo(12,10,Signo).
+signo(12,X,Signo).
+signo(14,1,Signo).
+signo(15,9,Signo).
+signo(17,4,Signo).
+signo(19,8,Signo).

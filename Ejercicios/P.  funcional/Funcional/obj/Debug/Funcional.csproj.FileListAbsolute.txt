@@ -1,0 +1,10 @@
+C:\Users\Edward Emanuel\Documents\SharpDevelop Projects\proyecto\proyecto\Funcional\bin\Debug\Funcional.exe
+C:\Users\Edward Emanuel\Documents\SharpDevelop Projects\proyecto\proyecto\Funcional\bin\Debug\Funcional.pdb
+C:\Users\Edward Emanuel\Documents\SharpDevelop Projects\proyecto\proyecto\Funcional\obj\Debug\Funcional.csprojResolveAssemblyReference.cache
+C:\Users\Edward Emanuel\Documents\SharpDevelop Projects\proyecto\proyecto\Funcional\obj\Debug\Funcional.exe
+C:\Users\Edward Emanuel\Documents\SharpDevelop Projects\proyecto\proyecto\Funcional\obj\Debug\Funcional.pdb
+C:\Users\Edward Emanuel\Documents\SharpDevelop Projects\Funcional\bin\Debug\Funcional.exe
+C:\Users\Edward Emanuel\Documents\SharpDevelop Projects\Funcional\bin\Debug\Funcional.pdb
+C:\Users\Edward Emanuel\Documents\SharpDevelop Projects\Funcional\obj\Debug\Funcional.csprojResolveAssemblyReference.cache
+C:\Users\Edward Emanuel\Documents\SharpDevelop Projects\Funcional\obj\Debug\Funcional.exe
+C:\Users\Edward Emanuel\Documents\SharpDevelop Projects\Funcional\obj\Debug\Funcional.pdb
